@@ -1,5 +1,6 @@
 [project]
     dependencies = [
+        "basedpyright>=1.39.3",
         "marimo[recommended]>=0.23.2",
         "plotly-stubs>=0.1.3",
         "plotly[express]>=6.7.0",
@@ -89,3 +90,5 @@
         unannotated-parameter        = "error"
         unannotated-return           = "error"
         unused-ignore                = "error"
+[tool.marimo.language_servers.basedpyright]
+    enabled = true
