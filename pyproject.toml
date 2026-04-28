@@ -2,6 +2,7 @@
     dependencies = [
         "basedpyright>=1.39.3",
         "marimo[recommended]>=0.23.2",
+        "pandas>=3.0.2",
         "plotly-stubs>=0.1.3",
         "plotly[express]>=6.7.0",
         "polars>=1.40.0",
@@ -9,7 +10,7 @@
         "pyrefly>=0.62.0",
         "ruff>=0.15.11",
         "yfinance>=1.3.0",
-    ]
+]
     description = "Add your description here"
     name = "guic"
     readme = "README.md"
@@ -22,6 +23,7 @@
     lint.ignore = [
         "A001",
         "A004",
+        "B018",
         "C417",
         "COM812",
         "COM812",
