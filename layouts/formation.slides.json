@@ -1,0 +1,40 @@
+{
+  "type": "slides",
+  "data": {
+    "cells": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "showCode": false
+      },
+      {
+        "showCode": true,
+        "type": "slide"
+      },
+      {
+        "speakerNotes": "Compared to Excel, we already have a fully fonctional tool, wrote with almost-purely english syntax, that will give us the price information of the last 5 days of our ticker of choice. Minus the one-time uv/IDE setup, It took 5 minutes to get here.",
+        "type": "slide"
+      },
+      {
+        "showCode": true
+      },
+      {},
+      {
+        "showCode": true
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "showCode": true
+      }
+    ],
+    "deck": {}
+  }
+}
