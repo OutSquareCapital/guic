@@ -73,7 +73,7 @@ Donc a retenir SI il nous reste une place.
 - **La blonde**🤔 => présentait bien aussi
 - **Alberto**🤔 => Sentiment global positif. Il répondait aux questions et présentait un peu en mode récitage de fiche, mais c'était pas mauvais. Il a notamment été actif dans les réponses, meme si c'étais pas forcément correct.
 - **Diona Matoshi**🤔 => A bien présenté, rien de plus a dire.
-- **derniere personne (zero souvenir)**🤔 => neutre.
+- **derniere personne**(zero souvenir)🤔 => neutre.
 
 ---
 
