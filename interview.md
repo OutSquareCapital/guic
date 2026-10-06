@@ -21,9 +21,14 @@
 
 Les noms apparaissent par ordre de préférence.
 
-Les personnes qui sont "a voir" sont ceux qui sont positifs modérés ou neutre mélangés.
+Les personnes qui sont `a voir` sont ceux qui sont `positif modéré` ou `neutre` mélangés.
 
-Au total, 7 oui pour sur, 16 a voir, 5 non. Les autres zero souvenir
+Au total:
+
+- **7** oui pour sur
+- **16** a voir
+- **5** non
+- Les autres zero souvenir
 
 ### Group 1: le pire
 
