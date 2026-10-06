@@ -17,7 +17,68 @@
 | 4     | AVUV  | 30%         |                                    |
 | 4     | GLD   | 35%         |                                    |
 
+## Sentiment global
+
+Les noms apparaissent par ordre de préférence.
+
+Les personnes qui sont "a voir" sont ceux qui sont positifs modérés ou neutre mélangés.
+
+Au total, 7 oui pour sur, 16 a voir, 5 non. Les autres zero souvenir
+
+### Group 1: le pire
+
+1 oui. 3 a voir. 3 non.
+
+- **Dion Avdily**🙂 => A accepter pour sur. Meilleur élément du groupe.
+- **Blond qui parlait du gold**🤔 => Positif, je retiens.
+- **Clairens Ilan**, **Daysm Khanjar**🤔 => Neutre.
+- **Hugo Magnin (sentiment), celui qui parlait d'ormuz, celui qui parlait d'AVUV**🙁 => Négatif. Je retiens pas.
+
+A noter que le brun petit (celui qui faisais AVUVU) savait pas trop présenter mais avait l'air curieux tout au long de l'event. Mais techniquement bof.
+
+Donc a retenir SI il nous reste une place.
+
+### Group 2: le plus technique et les meilleurs réponses aux questions
+
+2 oui. 5 a voir.
+
+- **Vuagniaux Andreas**, **Sara-Piasente Foligno**🙂 => 100% a accepter. Top 3 meilleurs éléments de tous les groupes.
+- **Alvaro Gomez Castel**, **Daniel Petrik**, **Danya Didouche(débutante)**🤔 => Positif. Je retiens.
+- **Matteo William Parker, Matthias Musso Vernaz**🤔 => Neutre. Pas de souvenir particulier.
+
+### Group 3: Quelques bon éléments mais l'AI slop me refroidit beaucoup
+
+2 oui, 3 a voir. 2 non.
+
+- **Mec qui avait fais le concours stock pitch**🙂 => 100% positif car indubitablement motivé. Malheureusement aux deux reprises j'ai rien retenu de lui, mais sa motivation est la. Il présente ok en plus. Au stock pitch son groupe était NUL, c'était pas lui le problème.
+- **Le mec en lunettes avec chemise**🙂 => A l'air techniquement bon mais j'ai pas vraiment eu de preuve concrète de ca. Je crois que des fois la barrière de la langue aidait pas. Mais a été l'un des plus actifs aux questions. Je retiens 100%.
+- **Mery Renaudin**🤔 => Même si sa réponse a ma question sur le marché US était incorrecte, son raisonnement était sensé et elle présentait bien.
+- **Lyna Winterstein**🤔 => Sentiment global positif.
+- **Jakub Manko**🤔 => Sentiment neutre. Pas de souvenir particulier.
+- **Findlay Price** 🙁 => Sentiment négatif. Purement personnel, mais j'appréciais moyennement sa vibe. Quand je passais dans les groupes j'avais l'impression de l'emmerder. Je me trompe peut-être cela dit.
+- **La fille discrète avec les lunettes** 🙁 => pataugeait un peu. Je retiens pas
+
+### Group 4: la meilleure présentation et le contenu le plus pertinent
+
+2 pour sur, 5 a voir
+
+- **L'indien quant**🙂 => meilleur de tous, juste derrière Wugniaux Andreas.
+- **l'iranienne**🙂 => bien qu'ayant répondu faux a ma question sur le gold vs energy, avait un raisonnement intéressant, est indubitablement passionnée vu qu'elle a dit que PARCE QUE elle regardait les prix tous les jours, alors elle était convaincu que blabla... 100% positif.
+- **La renoise petite**🤔 => avait une bonne présence et de mémoire a été active dans la réponse aux questions
+- **La blonde**🤔 => présentait bien aussi
+- **Alberto**🤔 => Sentiment global positif. Il répondait aux questions et présentait un peu en mode récitage de fiche, mais c'était pas mauvais. Il a notamment été actif dans les réponses, meme si c'étais pas forcément correct.
+- **Diona Matoshi**🤔 => A bien présenté, rien de plus a dire.
+- **derniere personne (zero souvenir)**🤔 => neutre.
+
+---
+
+En dessous les notes que j'ai prise "a chaud".
+
+---
+
 ## Group 1
+
+### Summary
 
 ### Context
 
@@ -29,7 +90,7 @@ Parle de ormuz??? Pas pertinent.
 
 Parle d'IA en tant que fil rouge.
 
-Analyse macro focus sur l'nflation, ormuz (conjoncturel, )
+Analyse macro focus sur l'nflation, ormuz (conjoncturel)
 
 ### VEA
 
@@ -41,24 +102,29 @@ Parle des frais
 
 Montre tableau avec différentes situations macro et leurs impacts sur le prix.
 
-**Basé sur..?**
+Je leur ai posé la question: _vos chiffres sont basés sur quoi?_
 
-EDIT: they made it up.
+Aucune réponse satisfaisante.
 
 ### Sentiment
 
 Lis bcp sur sur sa fiche
 
 Parle des flux de capituax.
+
 Quels flux exactement?
 
+Il m'a répondu: _les achats et ventes des investisseurs_ Frère ok c'est littéralement le prix de l'action. AI slop régurgité.
+
 ### Analyse technique
+
+Chiffres et analyse intéressants et très complets, mais malheureusement sans lier les données au reste de la présentation.
 
 ### Quantitatif
 
 17% vol.
 
-Dis que volatil puis assez bas??
+Dis que volatil puis assez bas?? Je met ca sur le stress de la présentation.
 
 Parle briévement du sharpe, mais tous les chiffres étaient balancés en isolation
 
@@ -66,39 +132,37 @@ Parle briévement du sharpe, mais tous les chiffres étaient balancés en isolat
 
 Mentionne que gold a pas de cash flow, et que la correlation est faible avec les autres.
 
-Parle de stabilité.
+Parle de stabilité, en quoi? La réponse était très peu satisfaisante.
 
 ### AVUV
 
 Pas compris l'explication de l'ETF. (ma faute)
 
-EN RESUME:
-
-le gars Gold et le gars analysise technique sont OK.
-
-Le brun petit avait pas ultra bien présenté mais avait l'air curieux tout au long de l'event.
+Après que il aie reexpliqué, il a PAS mentionné le fait que c'est une ETF VALUE, uniquement small cap + profitability. Mauvais.
 
 ## Group 2
 
-Les 2 premiers qui présentent sont top, pareil pour celui qui parlait anglais.
+### Summary
 
-Le blond a répondu a LA question: pari sous-jacent.
+Un des meilleurs groupes en contraste. La présentation était bof sur l'esthétique des slides, c'est le seul vrai point négatif.
 
-Donc j'en retiens 4 de ce groupe
+Mais je leur ai posé les questions les plus difficiles et ils répondu nickel a TOUTES sans exception.
 
-mentionne deflation!.
+mention de la deflation!
+
+Daniel Petrik A répondu a LA question: pari sous-jacent du portfolio.
 
 ### DBC analyse
 
-Parie de par le fait que l'inflation va grimper que
+Parie de par le fait que l'inflation va grimper, c'est un bon investissement
 
-A mentuonné que c'est pas une vérité systématique.
+A mentuonné que c'est pas une vérité systématique. TRES bien.
 
-Prle d'IA pour la demande énergétique, et link ca a DBC qui a 50% d'energie.
+Parle d'IA pour la demande énergétique, et link ca a DBC qui a 50% d'energie.
 
-A check cuivre. sait que cuivre se comporte pas comme le reste.
+Parle du cuivre et de ses caractéristiques. TRES bien.
 
-Parle du K-1, TRES PERTINENT et souvent sous-estimé.
+La brune parle du K-1, donc fiscalité. TRES PERTINENT et souvent sous-estimé.
 
 ### AAXJ Analyse
 
@@ -106,7 +170,7 @@ Parle du K-1, TRES PERTINENT et souvent sous-estimé.
 EDIT: il a bien répondu a la question, la phrase était bof mais le fond est correct.
 J'avais surtout peur que ce soie AI slop.
 
-Parle du premium US vs Asie.
+Parle du premium US vs Asie. Bien.
 
 Parle des dividendes faibles. En quoi etre problème? -> bien répondu également
 
@@ -122,11 +186,11 @@ Mentionne "not promised factors". Un peu toujours le cas, mais ca devrait etre O
 
 Dommage, répétition avec la première partie.
 
-## DBC
-
-Stats: depuis quand?
-
 ## Group 3
+
+### Summary
+
+Devant le groupe 1, mais l'IA slop dans leurs slides je déteste. Ca baisse énormément ma perception en général. Le contenu en lui meme était ok.
 
 Pitch point: 10 ans d'horizon, donc meme si US se casse la geule, ca devrait remonter.
 
@@ -139,8 +203,6 @@ Parle aussi du gold sans dividende ni intérêt.
 Ont bien compris POURQUOI le gld est diversificateur. mais la pondération aura zéro impact donc bon.
 
 On fais un joli PDF. tableau lisible.
-
-La fille avec les lunettes patauge un peu.
 
 ### Quantitative
 
@@ -158,7 +220,9 @@ Montre année 2022, pas mal.
 
 Explique que ca s'adresse a des clients qui sont jeunes.
 
-"L'arbitrage dui moment, protection de l'or ou rentabilité des bonds"??? Aussi AI slop.
+"L'arbitrage dui moment, protection de l'or ou rentabilité des bonds" de noté dans les slides???
+
+Aussi AI slop.
 
 ### Macro analysis
 
@@ -166,7 +230,11 @@ Baisse croissance, baisse des taux -> très favorable -> CAR alternative bonds p
 
 ## Groupe 4
 
-La blonde est bien.
+### Summary
+
+Meilleur groupe ? serré avec le 2.
+
+Mais c'est le SEUL groupe dont le contenu etait EXACTEMENT ce que je voulais entendre.
 
 Horizon 5 ans.
 
@@ -184,6 +252,4 @@ mentionne "pk pas les autres"!!!!!!! ce que je voulais avoir toute la soirée.
 
 #### EMXC
 
-Bien vendu.
-
-La brune (iranienne de memoire?) meme si sa réponse était factuellement fausse quand j'ai demandé pk gold et pas energy pour inflation, son raisonnement était intéressant.
+Bien vendu
