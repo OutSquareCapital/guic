@@ -48,7 +48,7 @@ Donc a retenir SI il nous reste une place.
 2 oui. 5 a voir.
 
 - **Vuagniaux Andreas**, **Sara-Piasente Foligno**🙂 => 100% a accepter. Top 3 meilleurs éléments de tous les groupes.
-- **Alvaro Gomez Castel**, **Daniel Petrik**, **Danya Didouche(débutante)**🤔 => Positif. Je retiens.
+- **Alvaro Gomez Castel**, **Daniel Petrik**, **Danya Didouche**(débutante)🤔 => Positif. Je retiens.
 - **Matteo William Parker, Matthias Musso Vernaz**🤔 => Neutre. Pas de souvenir particulier.
 
 ### Group 3: Quelques bon éléments mais l'AI slop me refroidit beaucoup
